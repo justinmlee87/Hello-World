@@ -19,6 +19,8 @@ I used all of the following tools
 
 - visual studio code
 - The latest version of Git/Git Hub
+- Zoom, to record and save the video
+- YouTube, to upload the video.
 
 {Describe the programming language that you used}
 I used Python to write the code to print "Hello World"
