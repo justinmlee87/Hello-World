@@ -1,2 +1,8 @@
-# The following code prints and displays the words in the qutotations.
-print("Hello World")
+# The following code is a unique way of printing hello world.
+print("""
+  _   _      _ _    __        __         _     _ _ 
+ | | | | ___| | | __\ \      / /__  _ __| | __| | |
+ | |_| |/ _ \ | |/ _ \ \ /\ / / _ \| '__| |/ _` | |
+ |  _  |  __/ | | (_)  V  V // (_) | |  | | (_| |_|
+ |_| |_|\___|_|_|\___/ \_/\_/ \___/|_|  |_|\__,_(_)
+""")
